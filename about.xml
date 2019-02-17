@@ -1,0 +1,17 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BluetoothActivity" >
+
+    <TextView
+        android:id="@+id/arm1"
+        android:layout_width="491dp"
+        android:layout_height="234dp"
+        android:layout_x="18dp"
+        android:layout_y="6dp"
+        android:textSize="18sp" />
+
+   
+
+</AbsoluteLayout>
