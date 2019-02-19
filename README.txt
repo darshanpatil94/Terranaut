@@ -21,6 +21,9 @@ JAVA FILES
 2. MainActivity.java
 --------------------
   - The main screen and fuctionalities are included in the MainActivity Class.
+        Functionalities: - Establish bluetooth connection with bot(HC-05)
+                         - Buttons to move the bot forward, backward, and movement of ARM's.
+                         - Changing the direction of the bot by tilting the android phone.
   - MainActivity Class extends Activity imported from import android.app.Activity package,
                       implements SensorEventListener imported from android.hardware.SensorEventListener package,
                       implements Handler.Callback imported from android.os.Handler package.
@@ -37,3 +40,7 @@ JAVA FILES
 4. About.java
 -------------
 - Implemented to display the developer information.
+
+
+Reference:
+https://developers.google.com/android/
