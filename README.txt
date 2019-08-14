@@ -34,7 +34,7 @@ JAVA FILES
 
 3. BtConnectionThread.java
 --------------------------
-- Implemented to perform functionalities related to blueooth.
+- Implemented to perform functionalities related to bluetooth.
 - BtConnectionThread class extends Thread imported from java.lang.Thread.
 
 4. About.java
